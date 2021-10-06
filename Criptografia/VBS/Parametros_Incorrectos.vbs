@@ -1,0 +1,1 @@
+x=Msgbox ("Parametro Incorrecto",vbExclamation,"ATENCAO"&Space(50))
